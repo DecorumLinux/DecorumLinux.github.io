@@ -4,7 +4,7 @@
 baseurl: /harmony
 
 # Site live URL
-url: http://gayan.me
+url: http://127.0.0.1:4000
 
 # Localhost 
 # url: http://127.0.0.1:4000  
@@ -13,24 +13,24 @@ url: http://gayan.me
 harmony:
   name: Harmony
   # Little description about your site
-  description: Harmony is free responsive jekyll theme.
+  description:
   meta_description: Harmony is free responsive jekyll theme. This will appear in your document head meta (for Google search results) and in your feed.xml site description.
   basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
   author: # Author details
-    name: Gayan Virajith
-    email: gayanvirajith@gmail.com
-    url: http://gayanvirajith.github.io
+    name: Decorum Project
+    email: 
+    url: http://DecorumLinux.github.io
 
   # Google Analytics key, leave blank to ignore
   google_analytics_key: UA-xxxx-x
 
   # Profile links, leave blank to ignore
   social: 
-    github: gayanvirajith
-    twitter: gayanvirajith
-    facebook: gayanvirajith
-    gplus: +GayanVirajith
-    dribble: gayan
+    github: 
+    twitter: 
+    facebook: 
+    gplus: 
+    dribble: 
     pinterest: 
   # Toggle disclaimer in footer
   show_disclaimer: true
